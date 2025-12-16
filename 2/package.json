@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.2"
+  },
+  "scripts": {
+    "start": "npx tsc && node ./dist/main.js"
+  }
+}
